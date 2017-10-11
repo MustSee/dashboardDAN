@@ -22,3 +22,6 @@ yarn-error.log*
 
 #IDE
 .idea/
+
+#settings DAN
+src/settings.json
